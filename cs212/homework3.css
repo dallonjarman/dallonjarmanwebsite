@@ -1,0 +1,9 @@
+@font-face {
+    src: url(Covered_By_Your_Grace/CoveredByYourGrace-Regular.ttf);
+    font-family: covered;
+    
+}
+
+body {
+    font-family: covered;
+}
