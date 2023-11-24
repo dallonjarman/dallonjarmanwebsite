@@ -1,0 +1,28 @@
+#story {
+	text-align: center;
+	margin-top: 50px;
+	font-size: 24px;
+}
+
+button {
+	margin: 20px;
+	padding: 10px;
+	font-size: 18px;
+	background-color: #008CBA;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+#ending1, #ending2, #ending3, #ending4, #ending5, #ending6, #ending7, #ending8 {
+	display: none;
+	text-align: center;
+	margin-top: 50px;
+	font-size: 24px;
+}
+
+img {
+	max-width: 500px;
+	margin-top: 20px;
+}
